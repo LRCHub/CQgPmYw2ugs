@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Bound For Glory",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-02-15T05:43:32.675691Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bound for Glory",
+      "artist": "Robben Ford",
+      "has_synced": false,
+      "path": "select/01_Bound_for_Glory_Robben_Ford.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Train Is Bound for Glory",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/02_This_Train_Is_Bound_for_Glory_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bound for Glory",
+      "artist": "Tedeschi Trucks Band",
+      "has_synced": true,
+      "path": "select/03_Bound_for_Glory_Tedeschi_Trucks_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bound For Glory (2011)",
+      "artist": "Tedeschi Trucks Band",
+      "has_synced": true,
+      "path": "select/04_Bound_For_Glory_(2011)_Tedeschi_Trucks_Band.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bound for Glory",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/05_Bound_for_Glory_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Train Is Bound for Glory (with the Carter Family)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/06_This_Train_Is_Bound_for_Glory_(with_the_Carter_Family)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Train Is Bound for Glory",
+      "artist": "Johnny Cash with June Carter Cash",
+      "has_synced": true,
+      "path": "select/07_This_Train_Is_Bound_for_Glory_Johnny_Cash_with_June_Carter_Cash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bound For Glory",
+      "artist": "Phil Ochs",
+      "has_synced": true,
+      "path": "select/08_Bound_For_Glory_Phil_Ochs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bound for Glory (feat. Markus Videsäter of Solence)",
+      "artist": "Hyro The Hero feat. Solence & Markus Videsäter",
+      "has_synced": true,
+      "path": "select/09_Bound_for_Glory_(feat._Markus_Videsäter_of_Solence)_Hyro_The_Hero_feat._Solence_&_Markus_Videsäter.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bound for Glory (feat. Markus Videsäter of Solence)",
+      "artist": "Hyro the Hero & Solence",
+      "has_synced": true,
+      "path": "select/10_Bound_for_Glory_(feat._Markus_Videsäter_of_Solence)_Hyro_the_Hero_&_Solence.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bound For Glory",
+      "artist": "Black Star Riders",
+      "has_synced": true,
+      "path": "select/11_Bound_For_Glory_Black_Star_Riders.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Train (Bound for Glory)",
+      "artist": "Big Bill Broonzy",
+      "has_synced": false,
+      "path": "select/12_This_Train_(Bound_for_Glory)_Big_Bill_Broonzy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Muscle Bound for Glory",
+      "artist": "Grailknights",
+      "has_synced": true,
+      "path": "select/13_Muscle_Bound_for_Glory_Grailknights.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bound For Glory",
+      "artist": "Hyro The Hero, Solence, Markus Videsäter",
+      "has_synced": true,
+      "path": "select/14_Bound_For_Glory_Hyro_The_Hero,_Solence,_Markus_Videsäter.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bound For Glory",
+      "artist": "John Cafferty & The Beaver Brown Band",
+      "has_synced": false,
+      "path": "select/15_Bound_For_Glory_John_Cafferty_&_The_Beaver_Brown_Band.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bound for Glory",
+      "artist": "Young, Neil",
+      "has_synced": false,
+      "path": "select/16_Bound_for_Glory_Young,_Neil.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bound For Glory (feat. Markus Videsäter of Solence)",
+      "artist": "Hyro The Hero",
+      "has_synced": true,
+      "path": "select/17_Bound_For_Glory_(feat._Markus_Videsäter_of_Solence)_Hyro_The_Hero.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bound for Glory",
+      "artist": "Power Quest",
+      "has_synced": false,
+      "path": "select/18_Bound_for_Glory_Power_Quest.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bound For Glory",
+      "artist": "Angry Anderson",
+      "has_synced": true,
+      "path": "select/19_Bound_For_Glory_Angry_Anderson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bound For Glory",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_Bound_For_Glory_KEIJU.txt"
+    }
+  ]
+}
